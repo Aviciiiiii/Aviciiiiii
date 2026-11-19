@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Xuchun Qiu🧸
 
-<!--
-**Aviciiiiii/Aviciiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I received my M.Eng. from Hebei University of Technology. My research interests lie at the intersection of information retrieval, knowledge graphs, and trustworthy AI.
 
-Here are some ideas to get you started:
+I am particularly interested in how retrieval and knowledge systems can preserve factual accuracy, document-specific meaning, and evidence provenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Research Projects
+
+- **[FOT-Ontology](https://github.com/Aviciiiiii/FOT-Ontology)** — A six-level Field of Technology ontology constructed from large-scale patent data. Research code for my first-author paper published in ACM TKDD (2026).
+- **[LightRAG Patent Provenance](https://github.com/Aviciiiiii/lightrag-patent-provenance)** — Diagnostic experiments investigating evidence attribution, chunk boundaries, and cross-document entity ambiguity in graph-based RAG.
+
+## Research Interests
+
+- Information retrieval and knowledge discovery
+- Knowledge graphs and ontology construction
+- Graph-based retrieval-augmented generation
+- Evidence attribution and provenance
+
+I am currently applying for Ph.D. programs for Fall 2027.
